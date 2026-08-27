@@ -12,9 +12,7 @@
 
 ### 💻 Flutter Developer • 🤖 AI & Bots Developer • 🎮 Gaming Creator • 🎥 YouTube Content Creator
 
-<p>
-  <strong>Building • Coding • Creating • Learning • Sharing</strong>
-</p>
+<p><strong>Building • Coding • Creating • Learning • Sharing</strong></p>
 
 <!-- 🌐 External Portfolio Link -->
 <a href="https://kamalprof-e6cxnbyz.manus.space">
@@ -24,22 +22,13 @@
 <br><br>
 
 <!-- 🔗 Social Links -->
-<a href="https://youtube.com/@KAMAL-s7e5o">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-<a href="mailto:ggkamal945@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://instagram.com">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://wa.me/">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
+<a href="https://youtube.com/@KAMAL-s7e5o"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="mailto:ggkamal945@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://wa.me/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 
 <br><br>
 
-<!-- 👁️ Profile Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=KAMAL-s7e5o&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
@@ -69,41 +58,29 @@ I enjoy turning ideas into real projects and experimenting with modern technolog
 
 ## 🛠️ Technologies & Skills
 
-### 💻 Programming
-
-<p>
+### 💻 Programming Languages
+<p align="center">
   <img src="https://skillicons.dev/icons?i=dart,python,javascript,typescript,html,css" alt="Programming Languages">
 </p>
 
 ### 📱 App Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="App Development">
 </p>
 
 ### 🤖 AI & Automation
-
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,nodejs" alt="AI and Automation">
 </p>
 
-- Artificial Intelligence
-- AI Chatbots
-- API Integration
-- Automation
-- Telegram Bots
-- Conversational AI
-
 ### 🌐 Web Development
-
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs" alt="Web Development">
 </p>
 
 ### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" alt="Tools">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" alt="Tools and Platforms">
 </p>
 
 ---
