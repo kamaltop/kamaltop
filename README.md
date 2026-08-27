@@ -13,9 +13,31 @@
   <strong>Building • Coding • Creating • Learning • Sharing</strong>
 </p>
 
+<!-- 🌐 External Portfolio Link -->
 <a href="https://kamalprof-e6cxnbyz.manus.space">
   <img src="https://img.shields.io/badge/🌐%20My%20Links-KAMAL%20PROF-00C7B7?style=for-the-badge" alt="KAMAL Links">
 </a>
+
+<br><br>
+
+<!-- 🔗 Social Links -->
+<a href="https://youtube.com/@KAMAL-s7e5o">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+<a href="mailto:ggkamal945@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://instagram.com">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://wa.me/">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
+<br><br>
+
+<!-- 👁️ Profile Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=KAMAL-s7e5o&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
 
@@ -80,6 +102,21 @@ I enjoy turning ideas into real projects and experimenting with modern technolog
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" alt="Tools">
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KAMAL-s7e5o&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAMAL-s7e5o&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAMAL-s7e5o&theme=dark&hide_border=true" alt="GitHub Streak">
+</div>
 
 ---
 
