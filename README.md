@@ -1,9 +1,12 @@
 <div align="center">
 
-<!-- 🇲🇦 Morocco Flag -->
-<img src="https://flagcdn.com/w320/ma.png" alt="Morocco Flag" width="260">
+<!-- 🇲🇦 Profile Picture & Morocco Flag -->
+<p align="center">
+  <img src="https://github.com/KAMAL-s7e5o.png" alt="KAMAL TOP Profile" width="160" height="160" style="border-radius: 50%; object-fit: cover; vertical-align: middle; margin-right: 15px;">
+  <img src="https://flagcdn.com/w320/ma.png" alt="Morocco Flag" width="220" style="vertical-align: middle; border-radius: 8px;">
+</p>
 
-<br><br>
+<br>
 
 # 👋 Hi, I'm **KAMAL TOP**
 
