@@ -1,12 +1,9 @@
 <div align="center">
 
-<!-- 🇲🇦 Profile Picture & Morocco Flag -->
-<p align="center">
- <img src="https://github.com/user-attachments/assets/83d082e0-8351-4d6d-92e7-d3dff12b56b7" alt="KAMAL TOP Profile" width="160" height="160" style="border-radius: 50%; object-fit: cover; vertical-align: middle; margin-right: 15px;">
- <img src="https://flagcdn.com/w320/ma.png" alt="Morocco Flag" width="220" style="vertical-align: middle; border-radius: 8px;">
+<p>
+  <img src="https://github.com/user-attachments/assets/83d082e0-8351-4d6d-92e7-d3dff12b56b7" alt="KAMAL TOP Profile" width="160" height="160" style="border-radius:50%;object-fit:cover;vertical-align:middle;margin-right:15px;">
+  <img src="https://flagcdn.com/w320/ma.png" alt="Morocco Flag" width="220" style="vertical-align:middle;border-radius:8px;">
 </p>
-
-<br>
 
 # 👋 Hi, I'm **KAMAL TOP**
 
@@ -14,14 +11,10 @@
 
 <p><strong>Building • Coding • Creating • Learning • Sharing</strong></p>
 
-<!-- 🌐 External Portfolio Link -->
-<a href="https://kamalprof-e6cxnbyz.manus.space">
- <img src="https://img.shields.io/badge/🌐%20My%20Links-KAMAL%20PROF-00C7B7?style=for-the-badge" alt="KAMAL Links">
-</a>
+<a href="https://kamalprof-e6cxnbyz.manus.space"><img src="https://img.shields.io/badge/🌐%20My%20Links-KAMAL%20PROF-00C7B7?style=for-the-badge" alt="KAMAL Links"></a>
 
 <br><br>
 
-<!-- 🔗 Social Links -->
 <a href="https://youtube.com/@KAMAL-s7e5o"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="mailto:ggkamal945@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -30,7 +23,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=KAMAL-s7e5o&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
+<a href="https://github.com/kamaltop/kamaltop" title="Profile visitors"><img src="https://komarev.com/ghpvc/?username=kamaltop&style=for-the-badge&color=0e75b6&label=PROFILE+VISITORS" alt="Profile visitors"></a>
 
 </div>
 
@@ -38,22 +31,16 @@
 
 ## 🧑‍💻 About Me
 
-Hi! I'm **KAMAL TOP**, a developer and content creator passionate about technology, programming, artificial intelligence, bots, gaming, and creative digital projects.
-
-I enjoy turning ideas into real projects and experimenting with modern technologies.
+Hi! I'm **KAMAL TOP**, a developer and content creator passionate about technology, programming, artificial intelligence, bots, gaming, and creative digital projects. I enjoy turning ideas into real projects and experimenting with modern technologies.
 
 ### 🚀 What I Do
 
 - 📱 Build applications with **Flutter**
-- 💻 Develop modern software and web projects
 - 🤖 Create **AI-powered applications and chatbots**
 - 📲 Develop **Telegram bots**
-- 🎮 Build tools and projects related to **Minecraft & Gaming**
-- 🧠 Explore Artificial Intelligence and automation
+- 🎮 Build tools for **Minecraft & Gaming**
 - 🌐 Create modern websites and digital platforms
-- 🎥 Create programming, technology and gaming content on **YouTube**
-- 🔧 Experiment with APIs, automation and new technologies
-- 🚀 Turn ideas into functional projects
+- 🎥 Create programming, technology and gaming content
 
 ---
 
@@ -91,6 +78,17 @@ I enjoy turning ideas into real projects and experimenting with modern technolog
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamaltop&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaltop&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%">
+</p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=kamaltop&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="70%"></p>
+<p align="center"><a href="https://github.com/kamaltop/kamaltop/graphs/traffic"><img src="https://img.shields.io/badge/Repository%20Traffic-View%20Analytics-0e75b6?style=for-the-badge&logo=github" alt="Repository Traffic Analytics"></a></p>
+
+---
+
 ## ✨ Additional Skills
 
 | Skill | Experience |
@@ -99,31 +97,26 @@ I enjoy turning ideas into real projects and experimenting with modern technolog
 | ⚙️ Automation | Building workflows that reduce repetitive tasks |
 | 💬 Conversational AI | Creating useful AI assistants and chatbots |
 | 📲 Telegram Bots | Developing interactive Telegram tools |
-| 🎮 Gaming Projects | Building tools and projects for Minecraft and gaming |
+| 🎮 Gaming Projects | Building tools for Minecraft and gaming |
 | 🎨 UI/UX Basics | Designing clean and user-friendly interfaces |
 
 ---
 
 ## 🤖 My AI & Bot Projects
 
-I'm interested in building intelligent and useful bots that combine automation with AI.
-
-### Current Areas
-
 | Project Area | Focus |
 |---|---|
 | 🤖 AI Chatbots | Intelligent conversations and AI assistants |
-| 📲 Telegram Bots | Automation, utilities and interactive bots |
-| 🎮 Minecraft Bots | Gaming automation and server-related tools |
+| 📲 Telegram Bots | Automation and interactive tools |
+| 🎮 Minecraft Bots | Gaming automation and server tools |
 | 🔌 API Projects | Connecting applications with external services |
 | ⚙️ Automation | Reducing repetitive tasks |
-| 🧠 AI Tools | Experimental AI-powered applications |
 
 ---
 
 ## 📱 Flutter
 
-Flutter is one of the technologies I'm focusing on to build modern cross-platform applications.
+Flutter helps me build modern cross-platform applications for Android, iOS, Web, and Desktop.
 
 ```text
 Flutter
