@@ -2,7 +2,7 @@
 
 <!-- 🇲🇦 Profile Picture & Morocco Flag -->
 <p align="center">
-  <img src="https://github.com/KAMAL-s7e5o.png" alt="KAMAL TOP Profile" width="160" height="160" style="border-radius: 50%; object-fit: cover; vertical-align: middle; margin-right: 15px;">
+  <img src="https://github.com/user-attachments/assets/83d082e0-8351-4d6d-92e7-d3dff12b56b7" alt="KAMAL TOP Profile" width="160" height="160" style="border-radius: 50%; object-fit: cover; vertical-align: middle; margin-right: 15px;">
   <img src="https://flagcdn.com/w320/ma.png" alt="Morocco Flag" width="220" style="vertical-align: middle; border-radius: 8px;">
 </p>
 
@@ -151,3 +151,4 @@ Flutter
    ├── 🍎 iOS
    ├── 🌐 Web
    └── 🖥️ Desktop
+```
