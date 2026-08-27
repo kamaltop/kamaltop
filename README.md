@@ -91,14 +91,24 @@ Hi! I'm **KAMAL TOP**, a developer and content creator passionate about technolo
 
 ## ✨ Additional Skills
 
-| Skill | Experience |
-|---|---|
-| 🔌 API Integration | Connecting apps and services through APIs |
-| ⚙️ Automation | Building workflows that reduce repetitive tasks |
-| 💬 Conversational AI | Creating useful AI assistants and chatbots |
-| 📲 Telegram Bots | Developing interactive Telegram tools |
-| 🎮 Gaming Projects | Building tools for Minecraft and gaming |
-| 🎨 UI/UX Basics | Designing clean and user-friendly interfaces |
+<p align="center">
+  <img src="https://img.shields.io/badge/API%20Integration-Connecting%20Apps-0e75b6?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Integration">
+  <img src="https://img.shields.io/badge/Automation-Smart%20Workflows-6f42c1?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation">
+  <img src="https://img.shields.io/badge/Conversational%20AI-Intelligent%20Assistants-20c997?style=for-the-badge&logo=openai&logoColor=white" alt="Conversational AI">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Telegram%20Bots-Interactive%20Tools-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots">
+  <img src="https://img.shields.io/badge/Gaming%20Projects-Minecraft%20Tools-5865F2?style=for-the-badge&logo=gamepad&logoColor=white" alt="Gaming Projects">
+  <img src="https://img.shields.io/badge/UI%2FUX%20Basics-Clean%20Interfaces-E91E63?style=for-the-badge&logo=figma&logoColor=white" alt="UI UX Basics">
+</p>
+<p align="center">
+  <strong>🔌 API Integration</strong> · Connecting applications and services through APIs<br>
+  <strong>⚙️ Automation</strong> · Building workflows that reduce repetitive tasks<br>
+  <strong>💬 Conversational AI</strong> · Creating useful AI assistants and chatbots<br>
+  <strong>📲 Telegram Bots</strong> · Developing interactive Telegram tools<br>
+  <strong>🎮 Gaming Projects</strong> · Building tools for Minecraft and gaming<br>
+  <strong>🎨 UI/UX Basics</strong> · Designing clean and user-friendly interfaces
+</p>
 
 ---
 
