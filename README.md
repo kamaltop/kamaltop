@@ -114,13 +114,24 @@ Hi! I'm **KAMAL TOP**, a developer and content creator passionate about technolo
 
 ## 🤖 My AI & Bot Projects
 
-| Project Area | Focus |
-|---|---|
-| 🤖 AI Chatbots | Intelligent conversations and AI assistants |
-| 📲 Telegram Bots | Automation and interactive tools |
-| 🎮 Minecraft Bots | Gaming automation and server tools |
-| 🔌 API Projects | Connecting applications with external services |
-| ⚙️ Automation | Reducing repetitive tasks |
+I'm interested in building intelligent and useful bots that combine automation with AI.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Chatbots-Intelligent%20Assistants-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Chatbots">
+  <img src="https://img.shields.io/badge/Telegram%20Bots-Interactive%20Tools-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft%20Bots-Gaming%20Automation-5865F2?style=for-the-badge&logo=gamepad&logoColor=white" alt="Minecraft Bots">
+  <img src="https://img.shields.io/badge/API%20Projects-Connected%20Services-0e75b6?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Projects">
+  <img src="https://img.shields.io/badge/Automation-Smart%20Workflows-6f42c1?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation">
+</p>
+<p align="center">
+  <strong>🤖 AI Chatbots</strong> · Intelligent conversations and AI assistants<br>
+  <strong>📲 Telegram Bots</strong> · Automation, utilities and interactive tools<br>
+  <strong>🎮 Minecraft Bots</strong> · Gaming automation and server-related tools<br>
+  <strong>🔌 API Projects</strong> · Connecting applications with external services<br>
+  <strong>⚙️ Automation</strong> · Reducing repetitive tasks
+</p>
 
 ---
 
