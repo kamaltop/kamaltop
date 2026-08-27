@@ -81,8 +81,8 @@ Hi! I'm **KAMAL TOP**, a developer and content creator passionate about technolo
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamaltop&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaltop&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kamaltop&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kamaltop&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%">
 </p>
 <p align="center"><img src="https://streak-stats.demolab.com?user=kamaltop&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="70%"></p>
 <p align="center"><a href="https://github.com/kamaltop/kamaltop/graphs/traffic"><img src="https://img.shields.io/badge/Repository%20Traffic-View%20Analytics-0e75b6?style=for-the-badge&logo=github" alt="Repository Traffic Analytics"></a></p>
@@ -120,9 +120,9 @@ Flutter helps me build modern cross-platform applications for Android, iOS, Web,
 
 ```text
 Flutter
-   │
-   ├── 📱 Android
-   ├── 🍎 iOS
-   ├── 🌐 Web
-   └── 🖥️ Desktop
+ │
+ ├── 📱 Android
+ ├── 🍎 iOS
+ ├── 🌐 Web
+ └── 🖥️ Desktop
 ```
