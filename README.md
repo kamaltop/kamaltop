@@ -108,21 +108,6 @@ I enjoy turning ideas into real projects and experimenting with modern technolog
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAMAL-s7e5o&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAMAL-s7e5o&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAMAL-s7e5o&theme=dark&hide_border=true" alt="GitHub Streak">
-</div>
-
----
-
 ## 🤖 My AI & Bot Projects
 
 I'm interested in building intelligent and useful bots that combine automation with AI.
