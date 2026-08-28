@@ -1,0 +1,16 @@
+{
+  "name": "minecraft-afk-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local AFK bot for authorized Minecraft Java and Bedrock servers.",
+  "type": "module",
+  "scripts": {
+    "java": "node src/java-bot.js",
+    "bedrock": "node src/bedrock-bot.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.45.0",
+    "dotenv": "^16.4.7",
+    "mineflayer": "^4.26.0"
+  }
+}
