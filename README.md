@@ -4,8 +4,6 @@
   <img src="https://github.com/user-attachments/assets/6d1a9c41-01f4-4d1b-834b-62bc11bb5e7b" alt="Animated snowfall banner" width="100%" />
 </a>
 
-# カマル · KAMAL TOP
-
 ### Flutter Developer · AI & Bots Developer · Gaming Creator · YouTube Creator
 
 **Building · Coding · Creating · Learning · Sharing**
