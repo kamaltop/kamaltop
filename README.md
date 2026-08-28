@@ -56,6 +56,23 @@ I am **KAMAL TOP**, a developer and content creator passionate about technology,
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kamaltop&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="49%">
 </p>
 
+## GitHub Achievements 2026
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2026-Building%20in%20Public-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Building in public 2026">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Bots-06b6d4?style=for-the-badge&logo=probot&logoColor=white" alt="AI and bots focus">
+  <img src="https://img.shields.io/badge/Goal-Ship%20More%20Projects-22c55e?style=for-the-badge&logo=rocket&logoColor=white" alt="Ship more projects goal">
+</p>
+
+| 2026 Focus | Status |
+|---|---|
+| Build and publish creative developer projects | In progress |
+| Create useful AI and bot experiences | In progress |
+| Improve Flutter and web development skills | In progress |
+| Share knowledge, experiments, and open-source work | In progress |
+
+> **2026 mindset:** Build with purpose, learn continuously, and share the journey.
+
 ## صورة البروفايل وخريطة المغرب
 
 <div align="center">
