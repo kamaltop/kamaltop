@@ -58,11 +58,11 @@ I am **KAMAL TOP**, a developer and content creator passionate about technology,
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kamaltop&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="49%">
 </p>
 
-## صورة البروفايل وعلم المغرب
+## صورة البروفايل وخريطة المغرب
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/83d082e0-8351-4d6d-92e7-d3dff12b56b7" alt="KAMAL TOP profile photo" width="160" height="160">
-  <img src="https://flagcdn.com/w320/ma.png" alt="Morocco flag" width="220">
+  <img src="https://raw.githubusercontent.com/kamaltop/kamaltop/main/assets/morocco-map.jpg" alt="Morocco map" width="220">
 </div>
 
 ## Live profile
