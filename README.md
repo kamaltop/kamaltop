@@ -49,6 +49,14 @@ I am **KAMAL TOP**, a developer and content creator passionate about technology,
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,androidstudio" alt="Git GitHub VS Code Figma Docker Android Studio">
 </p>
 
+## Featured open-source project
+
+<a href="https://github.com/kamaltop/minecraft-afk-bot"><img src="https://img.shields.io/badge/Minecraft%20AFK%20Bot-Java%20%26%20Bedrock-7c3aed?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft AFK Bot project"></a>
+
+A local, configurable AFK bot for authorized Minecraft servers, supporting **Java Edition**, **Bedrock Edition**, and offline-mode servers where permitted. The project is designed for local execution and includes reconnect handling plus a documented contribution path.
+
+**[View the Minecraft AFK Bot repository](https://github.com/kamaltop/minecraft-afk-bot)**
+
 ## GitHub analytics
 
 <p align="center">
