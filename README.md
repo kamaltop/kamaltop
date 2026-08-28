@@ -62,7 +62,7 @@ I am **KAMAL TOP**, a developer and content creator passionate about technology,
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/83d082e0-8351-4d6d-92e7-d3dff12b56b7" alt="KAMAL TOP profile photo" width="160" height="160">
-  <img src="https://raw.githubusercontent.com/kamaltop/kamaltop/main/assets/morocco-map.jpg" alt="Morocco map" width="220">
+  <img src="https://raw.githubusercontent.com/kamaltop/kamaltop/main/morocco-map-transparent.png" alt="Morocco map with transparent background" width="220">
 </div>
 
 ## Live profile
