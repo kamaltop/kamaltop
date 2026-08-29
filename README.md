@@ -3,9 +3,17 @@
 
 
 
+
+
+
+
 <a href="https://guns.lol/k.a.m.a.l.top">
  <img src="https://github.com/user-attachments/assets/6d1a9c41-01f4-4d1b-834b-62bc11bb5e7b" alt="Animated snowfall banner" width="100%" />
 </a>
+
+
+
+
 
 
 
@@ -15,12 +23,24 @@
 
 
 
+
+
+
+
 **Building · Coding · Creating · Learning · Sharing**
 
 
 
 
+
+
+
+
 > 人はいつ死ぬと思いますか？
+
+
+
+
 
 
 
@@ -32,6 +52,10 @@
 
 
 
+
+
+
+
 <br><br>
 <a href="https://youtube.com/@KAMAL-s7e5o"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="mailto:ggkamal945@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -39,60 +63,25 @@
 <a href="https://www.tiktok.com/@kamalive100?_r=1&_t=ZS-99Gzy0G6O9s"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 <a href="https://wa.me/qr/FCX2AHX73JQ5M1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 <a href="https://steamcommunity.com/profiles/76561198774420827/home"><img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+<a href="https://www.linkedin.com/in/kamal-kourkch-b0b925338"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.twitch.tv/kamals7e5o"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+<a href="https://kick.com/kamaltop01"><img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=111111" alt="Kick"></a>
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=kamaltop&style=for-the-badge&color=0e75b6&label=PROFILE+VISITORS" alt="Profile visitors">
 
-
-
-
-</div>
-
-
-
-
 ---
 
-
-
-
-## About me
-
-
-
-
-I am **KAMAL TOP**, a developer and content creator passionate about technology, programming, artificial intelligence, bots, gaming, and creative digital projects.
-
-
-
-
-## What I do
-
-
-
-
-| Area | Focus |
-|---|---|
-| App development | Cross-platform Flutter applications |
-| Web development | Modern interfaces and digital platforms |
-| AI and bots | Intelligent assistants, Telegram tools, and automation |
-| Gaming | Minecraft tools and interactive projects |
-| Product building | API integrations and creative prototypes |
-
-
-
-
-## Technologies and skills
-
+## Gaming & Live Streaming
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,nodejs,json" alt="JavaScript Node.js JSON" width="240">
+  <img src="https://img.shields.io/badge/Gaming-Minecraft%20%26%20Interactive%20Projects-7c3aed?style=for-the-badge&logo=minecraft&logoColor=white" alt="Gaming projects">
+  <img src="https://img.shields.io/badge/Live%20Streaming-Twitch%20%26%20Kick-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Live streaming">
+  <img src="https://img.shields.io/badge/Content-Creator-EF4444?style=for-the-badge&logo=youtube&logoColor=white" alt="Gaming content creator">
 </p>
 
+I create gaming content, experiment with Minecraft tools, and share live streams focused on gameplay, development, technology, and interactive projects. Follow the channels below for new streams, gaming sessions, and behind-the-scenes work.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub" width="160">
+  <a href="https://www.twitch.tv/kamals7e5o"><img src="https://img.shields.io/badge/Watch%20on%20Twitch-kamals7e5o-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Watch kamals7e5o on Twitch"></a>
+  <a href="https://kick.com/kamaltop01"><img src="https://img.shields.io/badge/Watch%20on%20Kick-kamaltop01-53FC18?style=for-the-badge&logo=kick&logoColor=111111" alt="Watch kamaltop01 on Kick"></a>
 </p>
-
-
-<p align="center">
-  <strong>Core stack:</strong> JavaScript · Node.js · JSON · Git · GitHub
