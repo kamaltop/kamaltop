@@ -91,3 +91,10 @@ I create gaming content, experiment with Minecraft tools, and share live streams
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+
+### 🏆 انجازاتي
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ka&theme=tokyonight&row=1&column=6&no-frame=true" />
+</p>
